@@ -29,14 +29,18 @@ Before running the project, make sure you have the following installed:
 2. Place your screenshots (e.g., `1.png`, `2.png`, `3.png`, `4.png`) inside this folder.
 3. Make sure your images are referenced correctly in the README using relative paths.
 
-![](C:\Users\lokes\AndroidStudioProjects\hiveapp\assets\screenshots\1.png)
+### App Snapshots
 
-![](C:\Users\lokes\AndroidStudioProjects\hiveapp\assets\screenshots\2.png)
+Below are some screenshots and a video demo of the app:
 
-![](C:\Users\lokes\AndroidStudioProjects\hiveapp\assets\screenshots\3.png)
+![Screenshot 1](assets/screenshots/1.png)
+![Screenshot 2](assets/screenshots/2.png)
+![Screenshot 3](assets/screenshots/3.png)
+![Screenshot 4](assets/screenshots/4.png)
 
-![](C:\Users\lokes\AndroidStudioProjects\hiveapp\assets\screenshots\4.png)
+### Demo Video
 
-![](C:\Users\lokes\AndroidStudioProjects\hiveapp\assets\screenshots\1.mp4)
+[Watch the Demo Video](assets/screenshots/demo.mp4)
+
 
 Let me know if you need any more help!

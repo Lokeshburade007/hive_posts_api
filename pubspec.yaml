@@ -66,6 +66,7 @@ flutter:
     - assets/screenshots/2.png
     - assets/screenshots/3.png
     - assets/screenshots/4.png
+    - assets/screenshots/demo.mp4
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
